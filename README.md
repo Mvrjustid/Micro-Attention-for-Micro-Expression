@@ -22,11 +22,23 @@ the latter one won the first place in the Facial Micro-Expression Grand Challeng
 
 If it is helpful, please cite:
 
-Micro-Attention for Micro-Expression recognition. Chongyang Wang, Min Peng, Tao Bi, Tong Chen. arXiv preprint arXiv:1811.02360, 2018
+@article{wang2020micro,
+  title={Micro-attention for micro-expression recognition},
+  author={Wang, Chongyang and Peng, Min and Bi, Tao and Chen, Tong},
+  journal={Neurocomputing},
+  volume={410},
+  pages={354--362},
+  year={2020},
+  publisher={Elsevier}
+}
 
-From Macro to Micro Expression Recognition: Deep Learning on Small Datasets Using Transfer Learning. Min Peng, Wu Zhan, Zhihao Zhang, Tong Chen. IEEE International Conference on Automatic Face & Gesture Recognition 2018.
-
-
-
+@inproceedings{peng2018macro,
+  title={From macro to micro expression recognition: Deep learning on small datasets using transfer learning},
+  author={Peng, Min and Wu, Zhan and Zhang, Zhihao and Chen, Tong},
+  booktitle={2018 13th IEEE International Conference on Automatic Face \& Gesture Recognition (FG 2018)},
+  pages={657--661},
+  year={2018},
+  organization={IEEE}
+}
 
 
