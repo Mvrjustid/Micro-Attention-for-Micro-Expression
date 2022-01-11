@@ -21,7 +21,7 @@ the latter one won the first place in the Facial Micro-Expression Grand Challeng
 # Citation
 
 If it is helpful, please cite:
-
+```
 @article{wang2020micro,
   title={Micro-attention for micro-expression recognition},
   author={Wang, Chongyang and Peng, Min and Bi, Tao and Chen, Tong},
@@ -31,7 +31,8 @@ If it is helpful, please cite:
   year={2020},
   publisher={Elsevier}
 }
-
+```
+```
 @inproceedings{peng2018macro,
   title={From macro to micro expression recognition: Deep learning on small datasets using transfer learning},
   author={Peng, Min and Wu, Zhan and Zhang, Zhihao and Chen, Tong},
@@ -40,5 +41,5 @@ If it is helpful, please cite:
   year={2018},
   organization={IEEE}
 }
-
+```
 
